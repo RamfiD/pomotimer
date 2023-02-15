@@ -64,7 +64,7 @@ function restartTimer() {
 }
 
 function playAlarm() {
-  let alarm = new Audio("./assets/alarm.mp3")
+  let alarm = new Audio("./assets/sounds/alarm.mp3")
   alarm.volume = 0.2
   alarm.loop = false
   alarm.play()
