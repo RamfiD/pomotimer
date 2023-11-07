@@ -1,7 +1,3 @@
-# **Pomotimer**
-
-<br>
-
 <p align="center">
   <img alt="Preview" src=".github/preview.png" width="100%">
 </p>
