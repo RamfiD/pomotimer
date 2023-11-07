@@ -10,4 +10,4 @@
 
 A simple and useful pomodoro timer. 📚
 
-- [🔗 Pomotimer](https://ramfid.github.io/pomotimer/)
+- [🔗 Pomotimer](https://ramfidev.github.io/pomotimer/)
